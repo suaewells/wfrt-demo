@@ -13,6 +13,7 @@ hello world
    :caption: Contents:
 
    api
+   test
 
 
 Indices and tables
