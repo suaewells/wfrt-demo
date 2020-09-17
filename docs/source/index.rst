@@ -6,10 +6,13 @@
 Welcome to Demo-WRFT's documentation!
 =====================================
 
+hello world
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   api
 
 
 Indices and tables
