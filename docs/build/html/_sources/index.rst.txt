@@ -12,6 +12,7 @@ Welcome to WFRT Demo's documentation!
    
    api
    mymarkdown
+   My Book <mybook.ipynb>
 
 Indices and tables
 ==================
