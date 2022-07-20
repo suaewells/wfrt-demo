@@ -11,7 +11,7 @@ Welcome to WFRT Demo's documentation!
    :caption: Contents:
    
    api
-
+   mymarkdown
 
 Indices and tables
 ==================
