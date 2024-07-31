@@ -16,6 +16,7 @@ documentation for details.
    :caption: Contents:
 
    api
+   mymarkdown
 
 Indices and tables
 ==================
