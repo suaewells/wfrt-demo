@@ -17,6 +17,7 @@ documentation for details.
 
    api
    mymarkdown
+   My Book <mybook.ipynb>
 
 Indices and tables
 ==================
